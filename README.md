@@ -16,3 +16,16 @@ By adding two asterisks on each side the text will be rendered as bold: **This t
    2. Sub heading two
 - [x] Todo one
    
+   
+   [GitHub Website](https://github.com)
+   
+   ![alt text](https://carpentries.github.io/lesson-example/assets/img/cp-logo-blue.svg "Carpentries Logo")
+
+
+![Double helix](fig/DNA_double_helix_horizontal.png)
+```
+s = "This is a Python string"
+
+print(s)
+
+```
