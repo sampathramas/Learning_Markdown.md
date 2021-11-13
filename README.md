@@ -10,3 +10,9 @@ To italisize text we add an asterisk on each side of the text, for example, *thi
 By adding two asterisks on each side the text will be rendered as bold: **This text should be bold**
 
 ***By adding three asterisks on each side of the text, the text will be displayed as bold and italisized.***
+
+1. Heading one
+   1. Sub heading one
+   2. Sub heading two
+- [x] Todo one
+   
