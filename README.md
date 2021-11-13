@@ -23,9 +23,9 @@ By adding two asterisks on each side the text will be rendered as bold: **This t
 
 
 ![Double helix](fig/DNA_double_helix_horizontal.png)
-```
+
+```python
 s = "This is a Python string"
 
 print(s)
-
 ```
